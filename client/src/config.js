@@ -1,0 +1,2 @@
+export const contractAddress = "0xe87c4eb305A63E31425F0370DB7E0430c03d1364"
+export const certificateContractAddress = "0xcDA56Abb1DE2821df47Fc9D013778A365E592452"
